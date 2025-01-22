@@ -1,0 +1,18 @@
+//-- Header-Style-Start --//
+.header-section {
+  .nav-link {
+    color: #333;
+    text-decoration: none;
+
+    &:hover {
+      color: #007bff;
+      text-decoration: underline;
+    }
+
+    &.active {
+      font-weight: 600;
+      color: #0056b3;
+    }
+  }
+}
+//-- Header-Style-End -- //

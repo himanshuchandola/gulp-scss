@@ -1,0 +1,12 @@
+.header-section .nav-link {
+  color: #333;
+  text-decoration: none;
+}
+.header-section .nav-link:hover {
+  color: #007bff;
+  text-decoration: underline;
+}
+.header-section .nav-link.active {
+  font-weight: 600;
+  color: #0056b3;
+}
